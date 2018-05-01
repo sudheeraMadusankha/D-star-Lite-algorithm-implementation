@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1524393948 source:c:\users\sudee\desktop\fyp\path_planning_algorithm\path_planning_code\main.cpp
+	"Priority_queue_class.h"
+	"map.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<limits>
+	<deque>
+	<algorithm>
+	<bits/stdc++.h>
+
+1522826232 source:c:\users\sudee\desktop\fyp\path_planning_algorithm\path_planning_code\u.cpp
+	"U.h"
+
+1522826096 c:\users\sudee\desktop\fyp\path_planning_algorithm\path_planning_code\u.h
+
+1523081241 source:c:\users\sudee\desktop\fyp\path_planning_algorithm\path_planning_code\priority_queue_class.cpp
+	"Priority_queue_class.h"
+
+1523081241 c:\users\sudee\desktop\fyp\path_planning_algorithm\path_planning_code\priority_queue_class.h
+	<queue>
+	<math.h>
+
+1524371118 c:\users\sudee\desktop\fyp\path_planning_algorithm\path_planning_code\map.h
+
+1524393857 source:c:\users\sudee\desktop\fyp\path_planning_algorithm\path_planning_code\map.cpp
+	"map.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<limits>
+	<deque>
+	<algorithm>
+	<bits/stdc++.h>
+
